@@ -37,6 +37,10 @@ The dataset used in this project is the [IPL Complete Dataset (2008–2024)](htt
 - Integrate player performance forecasting using Python or R.  
 - Include fan engagement and social media sentiment analysis for teams.
 
+## 📸 Screenshot
+
+![IPL Dashboard Screenshot](https://github.com/moneshpondhekar/IPL-Analysis-Tableau-Dashboard/blob/main/IPL%20Data%20Dashboard.png)
+
 
 - 
 
