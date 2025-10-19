@@ -19,6 +19,12 @@
 - ## 🌐 Live Dashboard Link
 🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/views/TablueaProjectIPLDATA/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
+## 🚀 How to Use
+1. **Download Tableau Public** or use **Tableau Desktop** to open the `.twbx` file.  
+2. Navigate to `Dashboard/IPL_Dashboard.twbx` in the repository.  
+3. Open the workbook and interact with filters to explore insights.  
+
+
 
 
 - ## 📈 Dashboard Features
